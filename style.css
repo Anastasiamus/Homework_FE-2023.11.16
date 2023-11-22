@@ -1,0 +1,14 @@
+.table1{
+    border: 1px solid black;
+}
+
+.table1 td{
+    border: 1px solid black;
+}
+.Schrift1{
+    font-weight: bold;
+}
+.table1 img{
+    width: 15px;
+    text-align: center;
+}
